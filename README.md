@@ -4,6 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhayadav692&label=Profile%20views&color=0e75b6&style=flat" alt="abhayadav692" /> </p>
 
+<img align="right" src="./profile-image.png" width="400" alt="Data Analytics">
+
 - 🌱 I’m currently learning **Python, SQL, Excel, Power BI & Statistics**
 
 - 💬 Ask me about **Data Analyst, Python, PostgreSQL**
